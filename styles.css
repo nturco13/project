@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    text-align: center;
+}
+
+header {
+    background: #4CAF50;
+    color: White;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 10px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.employee, .product {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+}
+
+.employee img, .product img {
+    width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: #4CAF50;
+}
+
+ul{
+    display: inline-block;
+    text-align: Left;
+}
+
+
+
+
